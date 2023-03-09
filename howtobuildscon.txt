@@ -1,0 +1,3 @@
+use x64 native tools command prompt, cd to this location and do
+
+scons platform=windows
